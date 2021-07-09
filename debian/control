@@ -8,7 +8,8 @@ Build-Depends:
     libmodule-install-perl,
     libtest-fatal-perl,
     libtest-requires-perl,
-    libtest-tcp-perl
+    libtest-tcp-perl,
+    libzmq-constants-perl
 Standards-Version: 4.5.0
 Homepage: https://github.com/centreon-lab/ZMQ-LibZMQ4
 
