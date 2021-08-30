@@ -3,7 +3,8 @@ Section: net
 Priority: optional
 Maintainer: Luiz Costa <me@luizgustavo.pro.br>
 Build-Depends: 
-    debhelper-compat (= 12), 
+    debhelper-compat (= 12),
+    libczmq-dev,
     libperl-dev,
     libmodule-install-perl,
     libtest-fatal-perl,
